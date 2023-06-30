@@ -1,0 +1,5 @@
+{
+    "Admin":["GET Workspaces as admin","GET Workspace Info"],
+    "Workspaces":["GET Workspaces","GET Datasets"]
+
+}
