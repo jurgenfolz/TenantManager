@@ -17,11 +17,11 @@ os
 
 You can install these libraries using pip:
 
-<pre>
-```bash
+
+```
 pip install json jwt pandas requests azure-identity ttkthemes tkinter os
 ```
-</pre>
+
 
 ## Modules Description
 
@@ -34,11 +34,9 @@ This class is used for handling the GUI of the app. It builds the main GUI, tree
 ## Running the Program
 To run the program, simply run the command:
 
-<pre>
-```python
+```
 python main.py
 ```
-</pre>
 
 Make sure to replace main.py with the filename if you have a different filename.
 
